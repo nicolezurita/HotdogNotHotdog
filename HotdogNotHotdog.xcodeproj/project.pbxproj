@@ -109,6 +109,7 @@
 		01F0A1A91ECE1AE000847908 /* HotdogNotHotdog */ = {
 			isa = PBXGroup;
 			children = (
+				1708F7C11ECE530A001302FC /* ImageCapturedViewController.swift */,
 				01F0A1AA1ECE1AE000847908 /* AppDelegate.swift */,
 				01F0A1AC1ECE1AE000847908 /* ViewController.swift */,
 				01F0A1AE1ECE1AE000847908 /* Main.storyboard */,
@@ -199,6 +200,7 @@
 				TargetAttributes = {
 					01F0A1A61ECE1AE000847908 = {
 						CreatedOnToolsVersion = 8.3.2;
+						DevelopmentTeam = M8LZR6NRDC;
 						ProvisioningStyle = Automatic;
 					};
 					01F0A1BA1ECE1AE000847908 = {
@@ -300,6 +302,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1708F7C21ECE530A001302FC /* ImageCapturedViewController.swift in Sources */,
 				01F0A1AD1ECE1AE000847908 /* ViewController.swift in Sources */,
 				01F0A1AB1ECE1AE000847908 /* AppDelegate.swift in Sources */,
 			);
